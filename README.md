@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Shin McCold Pages
 
-You can use the [editor on GitHub](https://github.com/shinhacker/shinhacker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Shin, a hacker from hacker world 
 
 ### Markdown
 
@@ -28,10 +27,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Well Thanks Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shinhacker/shinhacker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hmm SysTime,or SysDate
+Which Date I prefer?
+I prefer DD/MM/YYYY
+other dates seems very confusing!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact Anonymous
+Because there is only one way to contact,through ninjutsu(or ninshu).
+
+### Just A Rather Very Sophisticated System like Jarvis but one Atom is enough mC(square),react it one will know.
