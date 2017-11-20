@@ -46,8 +46,12 @@ dfn {
   font-style: italic;
 }
 
+.button--smakkest
+{height:19px;
+  line-height:17px;
+  padding:0 10px;
+  font-size:15px}
 
-.button--smallest{height:19px;line-height:17px;padding:0 10px;font-size:15px}
 
 h1 {
   font-size: 2em;
