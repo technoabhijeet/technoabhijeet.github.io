@@ -6214,7 +6214,7 @@ body.is-swBoot {
 }
 
 .button--chromeless:active .svgIcon,.button--chromeless:focus .svgIcon,.button--link:active .svgIcon,.button--link:focus .svgIcon {
-  fill: rgba(0,0,0,.9);
+  fill: #02b875;
 }
 
 .button--withIconAndLabel {
