@@ -1,7 +1,7 @@
-## Welcome to GitHub Shin McCold Pages
+## Welcome to GitHub Abhijeet Pages
 
 
-I am Shin, a hacker from hacker world 
+
 
 ### Markdown
 
